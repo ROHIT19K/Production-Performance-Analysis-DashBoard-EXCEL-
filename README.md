@@ -78,6 +78,8 @@ Standardized regional categories
 
 Created production KPIs
 
+Created Age Groups Using VloolUp Function
+
 3️⃣ KPI Development
 
 Created KPIs such as:
