@@ -115,48 +115,14 @@ Product-type comparison
 
 ## 🔍 Key Insights
 
-### * Identify Total Production Cost By Product Type
-
-    1. Automobiles	 11,52,805 
-    2. Electronics	 6,04,575 
-    3. Furniture	 7,03,282 
-    4. Machinery	 9,10,416 
-
-### * Track Number of Task By Each Manager 
-
-    1. Nancy Grey	37
-    2. Jane Smith	18
-    3. John Doe	    13
-    4. Mike Brown	11
-    5. Andrew Blue	10
-    6. Laura Black	8
-    7. Emily Davis	6
-    8. Chris Green	6
-    9. David White	6
-    10. Sarah Lee	5
-
-### * Total Number of Units Produced  Year/Month
-
-        By Month 
-        
-        1.  Sep 771
-        2.  Oct 3103
-        3.  Nov	4803
-        4.  Dec	2494
-        5. Jan	3026
-        6. Feb	4127
-        7. Mar	3875
-        8. Apr	1528
-        9. May	1684
-        10. Jun	3537
-        11. Jul	1536
-        12. Aug	2864
-        13. Sep	1379
-
-        By Year 
-
-        1. 2023 11171
-        2. 2024 - 23556
+1. Nancy Grey handled the highest number of tasks (37 tasks) among all managers, showing strong operational involvement.
+2. Jane Smith and John Doe were the next top-performing managers with 18 and 13 tasks respectively.
+3. Furniture had the highest average production cost per unit (~180), indicating higher manufacturing expenses.
+4. Automobiles generated the highest total production cost overall, crossing approximately 12 lakh.
+5. Electronics showed the lowest production cost among all product categories.
+6. Production volume peaked during November 2023 with approximately 4803 units produced.
+7. A noticeable decline in production was observed towards September 2024.
+8. Monthly production trends fluctuated significantly, indicating seasonal or operational demand variations.
 
 
 ## 🚀 Future Enhancements
