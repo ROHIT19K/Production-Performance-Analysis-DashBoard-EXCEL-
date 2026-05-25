@@ -225,6 +225,3 @@ Your Name
 LinkedIn: https://linkedin.com/in/yourprofile
 GitHub: https://github.com/yourusername
 Email: yourmail@gmail.com
-⭐ If You Like This Project
-
-If you found this project useful, please consider giving it a ⭐ on GitHub!
